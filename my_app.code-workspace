@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "heltec_lora_dht",
+			"path": "../../PlatformIO/Projects/heltec_lora_dht"
+		}
+	],
+	"settings": {}
+}
